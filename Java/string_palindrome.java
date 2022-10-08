@@ -1,4 +1,4 @@
-package com.mycompany.noor;
+
 import java.util.Scanner;
 public class string_palindrome
 {//palindrome of a word
