@@ -7,6 +7,7 @@ A Simple😉 beginner friendly😊 Repo for all programmers and coders. All cont
 # 🌟Languages
 - 💻 C
 - 💻 C++
+- 💻 HTML
 - 💻 Ruby
 - 💻 PHP
 - 💻 Python
@@ -48,6 +49,7 @@ A Simple😉 beginner friendly😊 Repo for all programmers and coders. All cont
 
 # ❄Prgrams
 - ⚡Create any pattern
+- ⚡Any web project
 - ⚡Make any algorithm (exclude calculator or related to it)
 - ⚡Print 1 to 100 without using numbers
 - ⚡Make calculator without using operators in program
